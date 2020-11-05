@@ -16,6 +16,7 @@ $config = [
         'request' => [
             // !!! insert a secret key in the following (if it is empty) - this is required by cookie validation
             'cookieValidationKey' => '3PPewWyp_DjC4aSrnSxWeqvTUOK6-8my',
+            'baseUrl' => '',
         ],
         'cache' => [
             'class' => 'yii\caching\FileCache',
@@ -65,6 +66,7 @@ $config = [
             'class' => 'izi\cross\UrlManager',
             'enablePrettyUrl' => true,
             'showScriptName' => false,
+            'baseUrl' => '',
             'rules' => [
 //                 '<action>' => 'site/index'
             ],
