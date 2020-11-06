@@ -29,10 +29,10 @@ $config = [
         'view' => [
             'class' => 'izi\cross\View',
             'theme' => [
-                'basePath' => '@app/themes/basic',
-                'baseUrl' => '@web/themes/basic',
+                'basePath' => '@app/themes/nz1',
+                'baseUrl' => '@web/themes/nz1',
                 'pathMap' => [
-                    '@app/views' => '@app/themes/basic',
+                    '@app/views' => '@app/themes/nz1',
                 ],
             ],
         ],
@@ -42,7 +42,7 @@ $config = [
             'enableAutoLogin' => true,
         ],
         'errorHandler' => [
-            'errorAction' => 'site/error',
+            'errorAction' => 'index/error',
         ],
         'mailer' => [
             'class' => 'yii\swiftmailer\Mailer',
@@ -60,6 +60,7 @@ $config = [
                 ],
             ],
         ],
+        
         'db' => $db,
         
         'urlManager' => [
@@ -68,6 +69,7 @@ $config = [
             'showScriptName' => false,
             'baseUrl' => '',
             'rules' => [
+                '' => 'index/index',
 //                 '<action>' => 'site/index'
             ],
         ],
