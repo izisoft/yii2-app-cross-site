@@ -250,3 +250,11 @@ class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-601
 href=https://gojapan.vn/thu-vien/tai-lieu-hoc-tieng-nhat/ class=elementor-sub-item>Tài liệu học tiếng Nhật</a></li></ul></li><li
 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-578"><a
 href=https://gojapan.vn/lien-he/ class=elementor-item>LIÊN HỆ</a></li></ul></nav></div></div></div></div></div></div></div></section></div></div></div></div></div></section></div></div>
+
+
+
+<?php
+$this->registerJs(<<<JS
+$('body').addClass('home page-template page-template-elementor_header_footer page wp-custom-logo elementor-default elementor-template-full-width elementor-kit-47 elementor-page');
+JS
+);

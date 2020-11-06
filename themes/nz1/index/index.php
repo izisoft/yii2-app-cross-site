@@ -1,3 +1,5 @@
+
+
 <div
 class=elementor-inner><div
 class=elementor-section-wrap><section
@@ -38,57 +40,24 @@ class="elementor-column elementor-col-100 elementor-top-column elementor-element
 class="elementor-column-wrap elementor-element-populated"><div
 class=elementor-widget-wrap><div
 class="elementor-element elementor-element-19f1019 elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id=19f1019 data-element_type=widget data-settings={&quot;navigation&quot;:&quot;dots&quot;,&quot;slides_to_scroll_mobile&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500} data-widget_type=image-carousel.default><div
-class=elementor-widget-container><div
-class="elementor-image-carousel-wrapper swiper-container" dir=ltr><div
-class="elementor-image-carousel swiper-wrapper"><div
-class=swiper-slide><a
-data-elementor-open-lightbox=yes data-elementor-lightbox-slideshow=19f1019 data-elementor-lightbox-title=Banner-DuongToiNuocNhat_Mobile href=https://gojapan.vn/lien-he/ target=_blank><figure
-class=swiper-slide-inner><img
-class=swiper-slide-image src=https://gojapan.vn/wp-content/uploads/2020/06/Banner-DuongToiNuocNhat_Mobile.jpg alt=Banner-DuongToiNuocNhat_Mobile title="Trang chủ 36"></figure></a></div><div
-class=swiper-slide><a
-data-elementor-open-lightbox=yes data-elementor-lightbox-slideshow=19f1019 data-elementor-lightbox-title=Banner_GoJa_mobile href=https://gojapan.vn/lien-he/ target=_blank><figure
-class=swiper-slide-inner><img
-class=swiper-slide-image src=https://gojapan.vn/wp-content/uploads/2020/05/Banner_GoJa_mobile.jpg alt=Banner_GoJa_mobile title="Trang chủ 37"></figure></a></div><div
-class=swiper-slide><a
-data-elementor-open-lightbox=yes data-elementor-lightbox-slideshow=19f1019 data-elementor-lightbox-title=Banner-TaiSao-Mobile-800x600 href=https://gojapan.vn/lien-he/ target=_blank><figure
-class=swiper-slide-inner><img
-class=swiper-slide-image src=https://gojapan.vn/wp-content/uploads/2020/06/Banner-TaiSao-Mobile-800x600-1.jpg alt=Banner-TaiSao-Mobile-800x600 title="Trang chủ 38"></figure></a></div></div><div
-class=swiper-pagination></div></div></div></div></div></div></div></div></div></section><section
-class="elementor-section elementor-top-section elementor-element elementor-element-7d5d19f dichvugojapan elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id=7d5d19f data-element_type=section data-settings={&quot;background_background&quot;:&quot;classic&quot;}><div
-class="elementor-container elementor-column-gap-default"><div
-class=elementor-row><div
-class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-39848f9c" data-id=39848f9c data-element_type=column><div
-class="elementor-column-wrap elementor-element-populated"><div
-class=elementor-widget-wrap><section
-class="elementor-section elementor-inner-section elementor-element elementor-element-13e8932d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id=13e8932d data-element_type=section><div
-class="elementor-container elementor-column-gap-default"><div
-class=elementor-row><div
-class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-497063ee" data-id=497063ee data-element_type=column><div
-class="elementor-column-wrap elementor-element-populated"><div
-class=elementor-widget-wrap><div
-class="elementor-element elementor-element-c594852 elementor-widget elementor-widget-heading" data-id=c594852 data-element_type=widget data-widget_type=heading.default><div
-class=elementor-widget-container><h2 class="elementor-heading-title elementor-size-default">Dịch vụ của gojapan</h2></div></div></div></div></div></div></div></section><section
-class="elementor-section elementor-inner-section elementor-element elementor-element-2f25ed17 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id=2f25ed17 data-element_type=section><div
-class="elementor-container elementor-column-gap-default"><div
-class=elementor-row><div
-class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-29e988cc clm__service" data-id=29e988cc data-element_type=column data-settings={&quot;background_background&quot;:&quot;classic&quot;}><div
-class="elementor-column-wrap elementor-element-populated"><div
-class=elementor-widget-wrap><div
-class="elementor-element elementor-element-a167a8f elementor-widget elementor-widget-heading" data-id=a167a8f data-element_type=widget data-widget_type=heading.default><div
-class=elementor-widget-container><h2 class="elementor-heading-title elementor-size-default"><a
-href=https://gojapan.vn/tieng-nhat-online/ >tiếng nhật online</a></h2></div></div></div></div></div><div
-class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-462645ce clm__service" data-id=462645ce data-element_type=column data-settings={&quot;background_background&quot;:&quot;classic&quot;}><div
-class="elementor-column-wrap elementor-element-populated"><div
-class=elementor-widget-wrap><div
-class="elementor-element elementor-element-5eb935f elementor-widget elementor-widget-heading" data-id=5eb935f data-element_type=widget data-widget_type=heading.default><div
-class=elementor-widget-container><h2 class="elementor-heading-title elementor-size-default"><a
-href=https://gojapan.vn/xuat-khau-lao-dong/ >Tư vấn XKLĐ nhật </a></h2></div></div></div></div></div><div
-class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5b4d9e78 clm__service" data-id=5b4d9e78 data-element_type=column data-settings={&quot;background_background&quot;:&quot;classic&quot;}><div
-class="elementor-column-wrap elementor-element-populated"><div
-class=elementor-widget-wrap><div
-class="elementor-element elementor-element-64ce1a9c elementor-widget elementor-widget-heading" data-id=64ce1a9c data-element_type=widget data-widget_type=heading.default><div
-class=elementor-widget-container><h2 class="elementor-heading-title elementor-size-default"><a
-href=https://gojapan.vn/dang-ky-tu-van-di-nhat/ >Du học nhật bản</a></h2></div></div></div></div></div></div></div></section></div></div></div></div></div></section><section
+class=elementor-widget-container>
+
+<?php
+$this->renderPartial('slider');
+?>
+
+
+
+</div></div></div></div></div></div></div></section>
+
+
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-7d5d19f dichvugojapan elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7d5d19f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-39848f9c" data-id="39848f9c" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><section class="elementor-section elementor-inner-section elementor-element elementor-element-13e8932d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="13e8932d" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-497063ee" data-id="497063ee" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-c594852 elementor-widget elementor-widget-heading" data-id="c594852" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default">Dịch vụ của gojapan</h2></div></div></div></div></div></div></div></section><section class="elementor-section elementor-inner-section elementor-element elementor-element-2f25ed17 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="2f25ed17" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-29e988cc clm__service" data-id="29e988cc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-a167a8f elementor-widget elementor-widget-heading" data-id="a167a8f" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default"><a href="https://gojapan.vn/tieng-nhat-online/">tiếng nhật online</a></h2></div></div></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-462645ce clm__service" data-id="462645ce" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-5eb935f elementor-widget elementor-widget-heading" data-id="5eb935f" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default"><a href="https://gojapan.vn/xuat-khau-lao-dong/">Tư vấn XKLĐ nhật </a></h2></div></div></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5b4d9e78 clm__service" data-id="5b4d9e78" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-64ce1a9c elementor-widget elementor-widget-heading" data-id="64ce1a9c" data-element_type="widget" data-widget_type="heading.default"><div class="elementor-widget-container"><h2 class="elementor-heading-title elementor-size-default"><a href="https://gojapan.vn/dang-ky-tu-van-di-nhat/">Du học nhật bản</a></h2></div></div></div></div></div></div></div></section></div></div></div></div></div>
+</section>
+
+
+
+<section
 class="elementor-section elementor-top-section elementor-element elementor-element-2d5e31e7 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id=2d5e31e7 data-element_type=section data-settings={&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;gradient&quot;}><div
 class="elementor-container elementor-column-gap-default"><div
 class=elementor-row><div
@@ -555,3 +524,4 @@ href=https://www.doisongphapluat.com/xa-hoi/gojapan-tien-phong-nang-buoc-uoc-mo-
 
 
 
+</div>
