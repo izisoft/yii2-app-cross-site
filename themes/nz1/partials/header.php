@@ -39,14 +39,7 @@
 														<div class="elementor-element elementor-element-3dd4de0 elementor-align-right elementor-widget__width-inherit btn_3d elementor-widget elementor-widget-button">
 															<div class="elementor-widget-container">
 																<div class="elementor-button-wrapper">
-																	<a href="#" target=_blank class="elementor-button-link elementor-button elementor-size-sm">
-																		<span class="elementor-button-content-wrapper">
-																			<span class="elementor-button-icon elementor-align-icon-right">
-																				<i aria-hidden=true class="fas fa-book-open"></i>		
-																			</span>
-																			<span class=elementor-button-text>Vào học thử</span>
-																		</span>
-																	</a>
+																	 
 																</div>
 															</div>
 														</div>
@@ -104,58 +97,90 @@
 											<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d00a58c" data-id=d00a58c data-element_type=column>
 												<div class="elementor-column-wrap elementor-element-populated">
 													<div class=elementor-widget-wrap>
-														<div class="elementor-element elementor-element-8fed47a elementor-nav-menu__align-justify elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu">
+														<div class="elementor-element elementor-element-8fed47a elementor-nav-menu__align-justify elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id=8fed47a data-element_type=widget data-settings={&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;} data-widget_type=nav-menu.default>
 															<div class=elementor-widget-container>
-																<nav role=navigation class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-text e--animation-none">
-																	<ul id=menu-1-8fed47a class=elementor-nav-menu>
-																		<li	class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1438">
-																			<a href="" class=elementor-item>TIẾNG NHẬT ONLINE</a>
-																			<ul class="sub-menu elementor-nav-menu--dropdown">
-																				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1563">
-																					<a href=https://gojapan.vn/tieng-nhat-online/ class=elementor-sub-item>Danh Sách Khóa Học</a>
-																				</li>
-																				<li
-									class="menu-item menu-item-type-custom menu-item-object-custom menu-item-565"><a
-									target=_blank rel="noopener noreferrer" href=https://hoc.gojapan.vn/ class=elementor-sub-item>Vào Bài Học</a></li><li
-									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1980"><a
-									href=https://gojapan.vn/lop-hoc-tieng-nhat-truc-tiep-voi-giao-vien/ class=elementor-sub-item>Lớp Học Trưc Tiếp Với Giáo Viên</a></li><li
-									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2116"><a
-									href=https://gojapan.vn/hoi-dap-hoc-tieng-nhat/ class=elementor-sub-item>Hỏi Đáp Về Học Tiếng Nhật</a></li>
-																			
-																			</ul>
-								
-								
-								
-																		</li><li
-								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1468"><a
-								href=https://gojapan.vn/xuat-khau-lao-dong/ class=elementor-item>XUẤT KHẨU LAO ĐỘNG</a><ul
-								class="sub-menu elementor-nav-menu--dropdown"><li
-								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a
-								href=https://gojapan.vn/xuat-khau-lao-dong/ class=elementor-sub-item>Đơn Hàng Đi Nhật</a></li><li
-								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2117"><a
-								href=https://gojapan.vn/hoi-dap-ve-tu-van-xkld-nhat-ban/ class=elementor-sub-item>Hỏi Đáp Về XKLD Nhật Bản</a></li></ul></li><li
-								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1460"><a
-								href=https://gojapan.vn/dang-ky-tu-van-di-nhat/ class=elementor-item>DU HỌC NHẬT BẢN</a></li><li
-								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1439"><a
-								href=https://gojapan.vn/goc-tu-van-hoc-tieng-nhat-va-di-nhat/ class=elementor-item>GÓC TƯ VẤN</a><ul
-								class="sub-menu elementor-nav-menu--dropdown"><li
-								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2158"><a
-								href=https://gojapan.vn/goc-tu-van-hoc-tieng-nhat/ class=elementor-sub-item>Góc Tư Vấn Học Tiếng Nhật</a></li><li
-								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2157"><a
-								href=https://gojapan.vn/goc-tu-van-xuat-khau-lao-dong-nhat-ban/ class=elementor-sub-item>Góc Tư Vấn XKLD Nhật Bản</a></li></ul></li><li
-								class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6011"><a
-								href=https://gojapan.vn/thu-vien/ class=elementor-item>THƯ VIỆN</a><ul
-								class="sub-menu elementor-nav-menu--dropdown"><li
-								class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6012"><a
-								href=https://gojapan.vn/thu-vien/giao-trinh-minna-no-nihongo/ class=elementor-sub-item>Giáo Trình Minna No Nihongo</a></li><li
-								class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6013"><a
-								href=https://gojapan.vn/thu-vien/tai-lieu-hoc-tieng-nhat/ class=elementor-sub-item>Tài liệu học tiếng Nhật</a></li></ul></li><li
-								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-578"><a
-								href=https://gojapan.vn/lien-he/ class=elementor-item>LIÊN HỆ</a></li>
-																</ul>
-								
-								
-															</nav>
+                                                            <nav
+role=navigation class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-text e--animation-none"><ul
+id=menu-1-8fed47a class=elementor-nav-menu><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1438"><a
+href=https://gojapan.vn/tieng-nhat-online/ class=elementor-item>TIẾNG NHẬT ONLINE</a><ul
+class="sub-menu elementor-nav-menu--dropdown"><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1563"><a
+href=https://gojapan.vn/tieng-nhat-online/ class=elementor-sub-item>Danh Sách Khóa Học</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-565"><a
+target=_blank rel="noopener noreferrer" href=https://hoc.gojapan.vn/ class=elementor-sub-item>Vào Bài Học</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1980"><a
+href=https://gojapan.vn/lop-hoc-tieng-nhat-truc-tiep-voi-giao-vien/ class=elementor-sub-item>Lớp Học Trưc Tiếp Với Giáo Viên</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2116"><a
+href=https://gojapan.vn/hoi-dap-hoc-tieng-nhat/ class=elementor-sub-item>Hỏi Đáp Về Học Tiếng Nhật</a></li></ul></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1468"><a
+href=https://gojapan.vn/xuat-khau-lao-dong/ class=elementor-item>XUẤT KHẨU LAO ĐỘNG</a><ul
+class="sub-menu elementor-nav-menu--dropdown"><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a
+href=https://gojapan.vn/xuat-khau-lao-dong/ class=elementor-sub-item>Đơn Hàng Đi Nhật</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2117"><a
+href=https://gojapan.vn/hoi-dap-ve-tu-van-xkld-nhat-ban/ class=elementor-sub-item>Hỏi Đáp Về XKLD Nhật Bản</a></li></ul></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1460"><a
+href=https://gojapan.vn/dang-ky-tu-van-di-nhat/ class=elementor-item>DU HỌC NHẬT BẢN</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1439"><a
+href=https://gojapan.vn/goc-tu-van-hoc-tieng-nhat-va-di-nhat/ class=elementor-item>GÓC TƯ VẤN</a><ul
+class="sub-menu elementor-nav-menu--dropdown"><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2158"><a
+href=https://gojapan.vn/goc-tu-van-hoc-tieng-nhat/ class=elementor-sub-item>Góc Tư Vấn Học Tiếng Nhật</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2157"><a
+href=https://gojapan.vn/goc-tu-van-xuat-khau-lao-dong-nhat-ban/ class=elementor-sub-item>Góc Tư Vấn XKLD Nhật Bản</a></li></ul></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6011"><a
+href=https://gojapan.vn/thu-vien/ class=elementor-item>THƯ VIỆN</a><ul
+class="sub-menu elementor-nav-menu--dropdown"><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6012"><a
+href=https://gojapan.vn/thu-vien/giao-trinh-minna-no-nihongo/ class=elementor-sub-item>Giáo Trình Minna No Nihongo</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6013"><a
+href=https://gojapan.vn/thu-vien/tai-lieu-hoc-tieng-nhat/ class=elementor-sub-item>Tài liệu học tiếng Nhật</a></li></ul></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-578"><a
+href=https://gojapan.vn/lien-he/ class=elementor-item>LIÊN HỆ</a></li></ul></nav><div
+class=elementor-menu-toggle role=button tabindex=0 aria-label="Menu Toggle" aria-expanded=false>
+<i
+class=eicon-menu-bar aria-hidden=true></i>
+<span
+class=elementor-screen-only>Menu</span></div><nav
+class="elementor-nav-menu--dropdown elementor-nav-menu__container" role=navigation aria-hidden=true><ul
+id=menu-2-8fed47a class=elementor-nav-menu><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1438"><a
+href=https://gojapan.vn/tieng-nhat-online/ class=elementor-item>TIẾNG NHẬT ONLINE</a><ul
+class="sub-menu elementor-nav-menu--dropdown"><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1563"><a
+href=https://gojapan.vn/tieng-nhat-online/ class=elementor-sub-item>Danh Sách Khóa Học</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-565"><a
+target=_blank rel="noopener noreferrer" href=https://hoc.gojapan.vn/ class=elementor-sub-item>Vào Bài Học</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1980"><a
+href=https://gojapan.vn/lop-hoc-tieng-nhat-truc-tiep-voi-giao-vien/ class=elementor-sub-item>Lớp Học Trưc Tiếp Với Giáo Viên</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2116"><a
+href=https://gojapan.vn/hoi-dap-hoc-tieng-nhat/ class=elementor-sub-item>Hỏi Đáp Về Học Tiếng Nhật</a></li></ul></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1468"><a
+href=https://gojapan.vn/xuat-khau-lao-dong/ class=elementor-item>XUẤT KHẨU LAO ĐỘNG</a><ul
+class="sub-menu elementor-nav-menu--dropdown"><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a
+href=https://gojapan.vn/xuat-khau-lao-dong/ class=elementor-sub-item>Đơn Hàng Đi Nhật</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2117"><a
+href=https://gojapan.vn/hoi-dap-ve-tu-van-xkld-nhat-ban/ class=elementor-sub-item>Hỏi Đáp Về XKLD Nhật Bản</a></li></ul></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1460"><a
+href=https://gojapan.vn/dang-ky-tu-van-di-nhat/ class=elementor-item>DU HỌC NHẬT BẢN</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1439"><a
+href=https://gojapan.vn/goc-tu-van-hoc-tieng-nhat-va-di-nhat/ class=elementor-item>GÓC TƯ VẤN</a><ul
+class="sub-menu elementor-nav-menu--dropdown"><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2158"><a
+href=https://gojapan.vn/goc-tu-van-hoc-tieng-nhat/ class=elementor-sub-item>Góc Tư Vấn Học Tiếng Nhật</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2157"><a
+href=https://gojapan.vn/goc-tu-van-xuat-khau-lao-dong-nhat-ban/ class=elementor-sub-item>Góc Tư Vấn XKLD Nhật Bản</a></li></ul></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6011"><a
+href=https://gojapan.vn/thu-vien/ class=elementor-item>THƯ VIỆN</a><ul
+class="sub-menu elementor-nav-menu--dropdown"><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6012"><a
+href=https://gojapan.vn/thu-vien/giao-trinh-minna-no-nihongo/ class=elementor-sub-item>Giáo Trình Minna No Nihongo</a></li><li
+class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6013"><a
+href=https://gojapan.vn/thu-vien/tai-lieu-hoc-tieng-nhat/ class=elementor-sub-item>Tài liệu học tiếng Nhật</a></li></ul></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-578"><a
+href=https://gojapan.vn/lien-he/ class=elementor-item>LIÊN HỆ</a></li></ul></nav>
 															<div
 								class=elementor-menu-toggle role=button tabindex=0 aria-label="Menu Toggle" aria-expanded=false>
 								<i
