@@ -118,3 +118,4 @@ callbacks[name].push(callback);},applyFilters:function(name,value,args){if(!call
 if(args===undefined){args=[];}
 var container=callbacks[name];var cbLen=container.length;for(var i=0;i<cbLen;i++){if(typeof container[i]==='function'){value=container[i](value,args);}}
 return value;}};})()};$(window).on('elementor/frontend/init',JetEngine.init);window.JetEngine=JetEngine;}(jQuery));
+
