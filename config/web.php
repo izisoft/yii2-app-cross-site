@@ -62,6 +62,10 @@ $config = [
         ],
         
         'db' => $db,
+
+        'f' => [
+            'class' => 'izi\cross\CrossSite'
+        ],
         
         'urlManager' => [
             'class' => 'izi\cross\UrlManager',
